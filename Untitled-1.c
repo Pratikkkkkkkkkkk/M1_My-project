@@ -4,8 +4,7 @@
 #include<stdlib.h>
  
 #define KEY "Enter the calculator Operation you want to do:"
- 
-// Function prototype declaration
+
 void addition();
 void subtraction();
 void multiplication();
@@ -15,13 +14,13 @@ void power();
 int factorial();
 void calculator_operations();
  
-// Start of Main Program
+
 int main()
 {
     int X=1;
     char Calc_oprn;
  
-    // Function call 
+
     calculator_operations();
  
     while(X)
@@ -77,12 +76,8 @@ int main()
     }
 }
  
-//Function Definitions
- 
 void calculator_operations()
 {
-    //system("cls");  use system function to clear 
-    //screen instead of clrscr();
     printf("\n             Welcome to C calculator \n\n");
  
     printf("******* Press 'Q' or 'q' to quit ");
