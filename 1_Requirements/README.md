@@ -1,26 +1,15 @@
 
-REQUIREMENTS
+INTRODUCTION :
+
+This is a mini project on "Scientific Calculator" which is basically used for various types of scientific calculations.
+I am implementing various operations in this mini project and this project  is very helpful for everyone especially 
+students and working professionals who want a calculator to perform calculations and research.
+Scientific calculator's basic functions are addition, subtraction, multiplication, division , modulus , power and factorial calculations.
 
 
-
-INTRODUCTION
-
-The mini porject which I am going to implement is a scientific calculator.
-A scientific calculator is used to do scientific calculations.
-I am implementing complex and vector functions in my mini project
-This priject is very helpful for students and working professionals who want a calculator to perform calculations.
-RESEARCH
-Scientific calculator
-Calculate basic functions like addition, subtraction, multiplication, division.
-Also has modulus and factorial calculations.
-It has two modes - Complex and vector mode.
-Complex mode is used for calculations involving complex numbers.
-Vector mode is used to operate with vectors.
-SWOT ANALYSIS
+ANALYSIS :
 1. Strengths
-* The biggest strength of this calculator is that it calculates normal integer and floating point values with precision upto 7 Decimal places.
-* It also performs complex operations with greater accuracy.
-* Vector operations are also performed.
+* The biggest strength of this calculator is that it calculates normal integer and floating point values.
 2. Weakness
 * Matrix calculations are not implemented.
 * There is no memory feature available to remember past calculations.
