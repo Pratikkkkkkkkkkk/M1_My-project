@@ -18,8 +18,10 @@ ANALYSIS :
 4. Threats
 * A Major threat is lack of memory and smart features in the calculator.
 * Security of data in calculations.
-4 W's and 1 H
-Who?
+
+
+
+Who ?
 The scientific calculator is for anyone who want to perform simple and scientific calcuations.
 What?
 This calculator calculates expressions entered by the user and gives the desired results.
