@@ -1,5 +1,9 @@
-##########REQUIREMENTS
+###########################REQUIREMENTS
+
+
+
 INTRODUCTION
+
 The mini porject which I am going to implement is a scientific calculator.
 A scientific calculator is used to do scientific calculations.
 I am implementing complex and vector functions in my mini project
