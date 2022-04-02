@@ -23,11 +23,15 @@ ANALYSIS :
 
 Who ?
 The scientific calculator is for anyone who want to perform simple and scientific calcuations.
+
 What?
 This calculator calculates expressions entered by the user and gives the desired results.
+
 When?
 This calculator can be used when we want to do calculations.
+
 Where?
 It can be used in homes, schools, colleges, offices. Basically it can be used anywhere where a calculator is required.
+
 How?
 It asks the user for the mode of calculation. That is it asks if it wants to do simle calculations, or if it wants to do vector arithmetic or complex number calculation. Based on the user choice, it asks what operation it wants to perform. Based on the user choice, it asks for the user input and calculates the output.
